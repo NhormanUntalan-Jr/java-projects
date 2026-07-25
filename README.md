@@ -12,6 +12,10 @@ Since this repository serves as a collection of Java projects, each project will
 file, with its own README.md.
 
 ## Quicklinks
-Here are quicklinks to all of my projects for convenience
+Here are quicklinks to all of my projects for convenience.
+Note: The projects are ordered from when they are first created.
 
-[ShapeComparison](./ShapeComparison/)
+### School Projects
+[ShapeComparison](https://github.com/NhormanUntalan-Jr/java-projects/tree/main/School%20Projects/ShapeComparison)
+
+### Personal Projects
