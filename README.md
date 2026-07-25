@@ -14,4 +14,4 @@ file, with its own README.md.
 ## Quicklinks
 Here are quicklinks to all of my projects for convenience
 
-[Shape Comparison](/Nhorman-UntalanJr/java-projects/tree/main/ShapeComparison)
+[ShapeComparison](/Nhorman-UntalanJr/java-projects/tree/main/ShapeComparison)
