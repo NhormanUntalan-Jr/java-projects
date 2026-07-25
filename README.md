@@ -14,4 +14,4 @@ file, with its own README.md.
 ## Quicklinks
 Here are quicklinks to all of my projects for convenience
 
-[Text Adventure Game](/path/to/Adventure1)
+[Text Adventure Game](/path/to/TextAdventureGame)
