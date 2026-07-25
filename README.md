@@ -12,4 +12,6 @@ Since this repository serves as a collection of Java projects, each project will
 file, with its own README.md.
 
 ## Quicklinks
-TBD
+Here are quicklinks to all of my projects for convenience
+
+[Text Adventure Game](/path/to/Adventure1)
