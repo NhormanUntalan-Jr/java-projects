@@ -21,3 +21,4 @@ Note: The projects are ordered from when they are first created.
 [TextAdventureGame](https://github.com/NhormanUntalan-Jr/java-projects/tree/main/School%20Projects/TextAdventureGame)
 
 ### Personal Projects
+[ImageDisplay](https://github.com/NhormanUntalan-Jr/java-projects/tree/main/Personal%20Projects/ImageDisplay)
