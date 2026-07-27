@@ -16,9 +16,9 @@ Here are quicklinks to all of my projects for convenience.
 Note: The projects are ordered from when they are first created.
 
 ### School Projects
-[ShapeComparison](https://github.com/NhormanUntalan-Jr/java-projects/tree/main/School%20Projects/ShapeComparison)
-
 [TextAdventureGame](https://github.com/NhormanUntalan-Jr/java-projects/tree/main/School%20Projects/TextAdventureGame)
+
+[ShapeComparison](https://github.com/NhormanUntalan-Jr/java-projects/tree/main/School%20Projects/ShapeComparison)
 
 ### Personal Projects
 [ImageDisplay](https://github.com/NhormanUntalan-Jr/java-projects/tree/main/Personal%20Projects/ImageDisplay)
